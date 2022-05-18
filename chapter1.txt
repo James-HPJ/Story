@@ -1,4 +1,6 @@
-Today is a hot day and not a cool day
+Today is a hot day and not a cool day.
+
+However, it rained. Hence it became cool again.
 
 git commands:
 - git add <file> or (. for all) , adds files to the staging area
