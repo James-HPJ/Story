@@ -1,1 +1,16 @@
 Today is a hot day and not a cool day
+
+git commands:
+- git add <file> or (. for all) , adds files to the staging area
+
+- git commit -m '<commit msg>', adds commit to local repo
+
+- git log, displays the history of commits
+
+- git status, displays which files are not in staging area
+
+- git remote add origin <URL>
+
+- git branch -M main
+
+- git push -origin main 
